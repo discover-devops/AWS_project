@@ -96,4 +96,4 @@ Students will design, deploy, and secure a scalable blogging platform using AWS 
 
 ---
 
-Does this project align with your requirements? Let me know if you need any adjustments or additional details!
+
